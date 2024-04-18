@@ -167,7 +167,8 @@
         "Next.Js",
         "Styled-Components"
       ],
-      "url": "https://vintify.vercel.app/"
+      "url": "https://vintify.vercel.app/",
+      "github": "https://github.com/fabrizioCast/E-Commerce-App"
     },
     {
       "name": "Quizz Game",
@@ -177,7 +178,8 @@
         "React",
         "SASS"
       ],
-      "url": "https://fabriziocast.github.io/Quiz-Game/#/"
+      "url": "https://fabriziocast.github.io/Quiz-Game/#/",
+      "github": "https://github.com/fabrizioCast/Quiz-Game"
     },
     {
       "name": "Novie App",
@@ -188,7 +190,8 @@
         "MUI",
         "SASS"
       ],
-      "url": "https://fabriziocast.github.io/novie-app/#/"
+      "url": "https://fabriziocast.github.io/novie-app/#/",
+      "github": "https://github.com/fabrizioCast/Quiz-Game"
     }
   ]
 }
